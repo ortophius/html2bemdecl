@@ -1,0 +1,24 @@
+{
+  "name": "html2bemdecl-loader",
+  "version": "1.0.0",
+  "description": "A very simple wrapper for html2bemjson and bemjson-to-decl modules",
+  "main": "html2bemdecl-loader.js",
+  "dependencies": {
+    "bemjson-to-decl": "^1.0.3",
+    "html2bemjson": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortophius/html2bemdecl.git"
+  },
+  "author": "Denis Kolesnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ortophius/html2bemdecl/issues"
+  },
+  "homepage": "https://github.com/ortophius/html2bemdecl#readme"
+}
