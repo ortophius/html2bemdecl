@@ -1,6 +1,6 @@
 {
   "name": "html2bemdecl-loader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A very simple wrapper for html2bemjson and bemjson-to-decl modules",
   "main": "html2bemdecl-loader.js",
   "dependencies": {
@@ -15,6 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/ortophius/html2bemdecl.git"
   },
+  "keywords":[
+    "bem",
+    "webpack"
+  ],
   "author": "Denis Kolesnikov",
   "license": "ISC",
   "bugs": {
