@@ -33,4 +33,5 @@ Now you dont even need to write bemjson/bemdecl by yourself. For example, this i
 
 You can use this DECL to convert it to `require` statements with [bemdecl-to-fs-loader](https://www.npmjs.com/package/bemdecl-to-fs-loader). So you may write only HTML, and all resources will be included automatically based on classes of HTML elements. 
 
+The example project is available [here](https://github.com/ortophius/html-webpack-example).
 The more information about BEM naming you may find [here](https://bem.info/methodology/naming-convention/).
