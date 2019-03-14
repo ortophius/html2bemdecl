@@ -6,7 +6,7 @@ module.exports = function( content ){
 
     let callback = this.async();
     let bemjson = html2bemjson.convert( content );
-    let decl = bemjson2decl.stringify( bemjson );
+    let decl = bemjson2decl.convert( bemjson );
 
     console.log(decl);
     callback(null, decl);
